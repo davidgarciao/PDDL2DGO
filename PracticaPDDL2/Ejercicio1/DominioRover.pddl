@@ -6,7 +6,6 @@
              (drill ?l -location)
 	     (picture ?l -location)
              (communication ?l -location)
-	     (battery-low ?r -rover)
 	     (analyse-sample ?l -location)
 	     (available ?r -rover))
 
