@@ -1,0 +1,5 @@
+Para la realización de este ejercicio, se ha pensado lo siguiente:
+Se trata de una IA que, mediante el empleo de AI planning, consiga ofrecer tanto a los camioneros como a los repartidores de paquetes, una ruta optimizada del orden en el que deben visitar las diferentes ciudades para ahorrar el mayor tiempo y esfuerzo posible. Además de eso, tambien llevará una cuenta aproximada del cansancio del repartidor teniendo en cuenta factores como el tiempo que ha pasado conduciendo (considerando que la conducción de noche agota más que la condución de día) y aproximando una medición del esfuerzo que se realizará a la hora de entregar paquetes o descargar mercancias, siendo esta segunda más agotadora que la primera.
+Por lo tanto, esta IA podrá ayudar al usuario a realizar su trabajo de manera más segura, velando por su seguridad e indicandole cuando debe descansar y durante cuanto tiempo para recuperar la energía (tomando de manera orientativa las recomendaciones de la DGT).
+
+En el segundo problema se añade un segundo repartidor, nuevos paquetes y mercancias, así como un almacén destino al cual deben llegar ambos.
