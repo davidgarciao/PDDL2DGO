@@ -33,7 +33,7 @@
 	    (= (distance planet3 fin) 50)
 	    (= (distance planet4 planet5) 20)
     	    (= (distance planet4 fin) 30)
-	    (= (distance planet5 fin) 10))
+	    (= (distance planet5 fin) 10)
 	       
 
             (= (distance planet1 inicio) 20)
