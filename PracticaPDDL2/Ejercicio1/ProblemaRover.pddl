@@ -34,6 +34,29 @@
 	    (= (distance planet4 planet5) 20)
     	    (= (distance planet4 fin) 30)
 	    (= (distance planet5 fin) 10))
+	       
+
+            (= (distance planet1 inicio) 20)
+            (= (distance planet2 inicio) 40)
+	    (= (distance planet3 inicio) 50)
+	    (= (distance planet4 inicio) 70)
+	    (= (distance planet5 inicio) 90)
+	    (= (distance fin inicio) 100)
+            (= (distance planet2 planet1) 20)
+            (= (distance planet3 planet1) 30)
+            (= (distance planet4 planet1) 50)
+	    (= (distance planet5 planet1) 70)
+	    (= (distance fin planet1) 80)
+	    (= (distance planet3 planet2) 10)
+	    (= (distance planet4 planet2) 30)
+	    (= (distance planet5 planet2) 50)
+	    (= (distance fin planet2) 60)
+	    (= (distance planet4 planet3) 20)
+	    (= (distance planet5 planet3) 40)
+	    (= (distance fin planet3) 50)
+	    (= (distance planet5 planet4) 20)
+    	    (= (distance fin planet4) 30)
+	    (= (distance fin planet5) 10))
 	
             
             
