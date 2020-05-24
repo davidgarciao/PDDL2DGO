@@ -35,7 +35,24 @@
 	    (= (distancia ciudad2 ciudad5) 50000)
 	    (= (distancia ciudad3 ciudad4) 20000)
 	    (= (distancia ciudad3 ciudad5) 40000)
-	    (= (distancia ciudad4 ciudad5) 20000))
+	    (= (distancia ciudad4 ciudad5) 20000)
+	    
+	    
+	    (= (distancia ciudad1 almacen) 20000)
+            (= (distancia ciudad2 almacen) 40000)
+	    (= (distancia ciudad3 almacen) 50000)
+	    (= (distancia ciudad4 almacen) 70000)
+	    (= (distancia ciudad5 almacen) 90000)
+            (= (distancia ciudad2 ciudad1) 20000)
+            (= (distancia ciudad3 ciudad1) 30000)
+            (= (distancia ciudad4 ciudad1) 50000)
+	    (= (distancia ciudad4 ciudad1) 70000)
+	    (= (distancia ciudad3 ciudad2) 10000)
+	    (= (distancia ciudad4 ciudad2) 30000)
+	    (= (distancia ciudad5 ciudad2) 50000)
+	    (= (distancia ciudad4 ciudad3) 20000)
+	    (= (distancia ciudad5 ciudad3) 40000)
+	    (= (distancia ciudad5 ciudad45) 20000))
 	
             
             
