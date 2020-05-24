@@ -1,0 +1,14 @@
+
+; Time 1.53
+; ParsingTime 0.16
+; NrActions 6
+; MakeSpan
+; MetricValue 22.400
+; PlanningTechnique Modified-FF(best-first search) as the subplanner
+
+0.001: (MOVE LEADER N0 P0000 P1613) [3.4000]
+0.002: (MOVE FOLLOWER N0 P0000 P0509) [2.0000]
+3.403: (ORIENTATE C2 LEADER P_45 T_90 P_0 T_0) [3.0000]
+6.404: (TAKE-PICTURE LEADER C2 P1613 P_0 T_0) [8.0000]
+6.405: (TAKE-PICTURE FOLLOWER C2 P0509 P_0 T_0) [8.0000]
+14.406: (SEND-PICTURE FOLLOWER C2 P0509 P_0 T_0) [4.0000]
